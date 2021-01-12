@@ -116,11 +116,11 @@ inquirer.prompt([
 
     To use my project you must:
 
-    ${answers.step1}
+    1. ${answers.step1}
 
-    ${answers.step2}
+    2. ${answers.step2}
 
-    ${answers.step3}
+    3. ${answers.step3}
 
     
 ## Usage
