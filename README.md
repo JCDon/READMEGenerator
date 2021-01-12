@@ -26,11 +26,11 @@
 
     To use my project you must:
 
-    1. 
+    1. Enter a local terminal and npm install fs and inquirer.
 
-    2. then its step two of working the site
+    2. Type "node index.js" into the terminal to generate questions.
 
-    3. finally its step three of working the site
+    3. Answer in complete sentences to fill in an auto-completed README.md file.
 
     
 ## Usage
@@ -51,8 +51,8 @@
 
     Based on your convenience you may...
 
-        reach me via GitHub (gitusrname):
-        The link is profile link url
+        reach me via GitHub (JCDon):
+        The link is https://github.com/JCDon
 
         or
 
